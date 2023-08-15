@@ -1,4 +1,4 @@
-# esp32Googleassitant
+# esp32Googleassistant
 
 Toggled 3 different led's using esp32 and google assistant through ifttt
 
